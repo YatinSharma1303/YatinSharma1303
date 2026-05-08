@@ -1,676 +1,495 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║   🌸 YATIN SHARMA — 究極のGitHubプロフィール  v3.0 🌸          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<![CDATA[<!-- 
+  ██╗   ██╗ █████╗ ████████╗██╗███╗   ██╗    ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗ 
+  ╚██╗ ██╔╝██╔══██╗╚══██╔══╝██║████╗  ██║    ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+   ╚████╔╝ ███████║   ██║   ██║██╔██╗ ██║    ███████╗███████║███████║██████╔╝██╔████╔██║███████║
+    ╚██╔╝  ██╔══██║   ██║   ██║██║╚██╗██║    ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
+     ██║   ██║  ██║   ██║   ██║██║ ╚████║    ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+     ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+-->
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════ -->
-<!--         🌊 ANIMATED WAVE HEADER        -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ようこそ%20Welcome&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=To%20The%20World%20of%20Yatin%20Sharma&descAlignY=52&descSize=18"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4DA6,40:C44DFF,60:6C63FF,80:00D2FF,100:00FFA3&height=300&section=header&text=%E3%83%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%9E&fontSize=58&fontAlignY=38&fontColor=FFFFFF&desc=Yatin%20Sharma%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=60&descSize=22&animation=twinkling" width="100%"/>
-
-<!-- ═══════════════════════════════════════ -->
-<!--       ⚡ MULTI-LINE TYPING BANNER       -->
-<!-- ═══════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚡+コードは剣だ+—+CODE+IS+MY+KATANA+⚡;🔥+AI+×+Healthcare+×+Innovation+🔥;🌸+諦めるな+—+NEVER+SURRENDER+🌸;🧠+Building+Tomorrow's+AI+Today+🧠" alt="Typing SVG" />
+<!-- ANIMATED TYPING INTRODUCTION -->
+<a href="https://github.com/YatinSharma1303">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E3%82%84%E3%81%82%E3%80%81%E7%A7%81%E3%81%AF+Yatin+Sharma+%E3%81%A7%E3%81%99!;Hey%2C+I'm+Yatin+Sharma!+%F0%9F%8E%8C" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=YatinSharma1303&style=for-the-badge&color=FF0080&label=👁️+VISITORS&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/YatinSharma1303?style=for-the-badge&label=🌸+FOLLOWERS&color=C44DFF&labelColor=0D1117&logo=github"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-CODING_24%2F7-00FFA3?style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🇯🇵_ANIME-DEVELOPER-FF0080?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--     🎌 ANIME GIRLS BANNER — MIKASA + ICONIC FEMALE CHARS       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=50&section=header&text=🎌+女性キャラクター+—+ICONIC+ANIME+GIRLS+🎌&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<!-- Mikasa (AOT) - imgur direct link works on GitHub -->
-<img src="https://i.imgur.com/7N5GYPN.gif" width="160" title="Mikasa Ackerman — Attack on Titan"/>
-&nbsp;&nbsp;
-<!-- Winry Rockbell (FMA Brotherhood) -->
-<img src="https://i.imgur.com/2pNEZMG.gif" width="160" title="Winry Rockbell — FMA Brotherhood"/>
-&nbsp;&nbsp;
-<!-- Nami (One Piece) -->
-<img src="https://i.imgur.com/WG3oBYI.gif" width="160" title="Nami — One Piece"/>
-&nbsp;&nbsp;
-<!-- Nobara Kugisaki (JJK) -->
-<img src="https://i.imgur.com/3k3QJOV.gif" width="160" title="Nobara Kugisaki — Jujutsu Kaisen"/>
-&nbsp;&nbsp;
-<!-- Tatsumaki (OPM) -->
-<img src="https://i.imgur.com/bvPFBDO.gif" width="160" title="Tatsumaki — One Punch Man"/>
+<!-- DANCING ANIME GIRLS BANNER -->
+<img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/VkMV9TldsPd28/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" />
 
 <br/><br/>
 
-> 🌸 *「戦う女性は最も美しく、最も恐ろしい」*
->
-> *"A woman who fights is the most beautiful and most terrifying"*
+<!-- GLOWING VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=YatinSharma1303&label=訪問者数%20|%20Profile%20Views&color=ff6b6b&style=for-the-badge&logo=github" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/YatinSharma1303?label=フォロワー%20|%20Followers&style=for-the-badge&color=1a1b27&labelColor=ff6b6b&logo=github" alt="Followers" />
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              ⛩️ THE WARRIOR'S SCROLL — 戦士の巻物               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ABOUT ME SECTION -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6&height=50&section=header&text=⛩️+戦士の巻物+—+WARRIOR+PROFILE+⛩️&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 私について | About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 </div>
 
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" alt="Coding Anime" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350"/>
 
 ```yaml
-╔═══════════════════════════════════════════════╗
-║        ⚡ WARRIOR IDENTIFICATION CARD ⚡       ║
-╠═══════════════════════════════════════════════╣
-║                                               ║
-║  名前    (Name)   →  Yatin Sharma             ║
-║  称号    (Title)  →  Full Stack Dev           ║
-║                      AI / ML Engineer         ║
-║                      Tech Innovator           ║
-║  所在地  (Base)   →  India 🇮🇳               ║
-║  武器    (Weapon) →  Python ⚔️  React 🛡️      ║
-║                      Node.js 🏹  TF 🔮        ║
-║  流派    (Style)  →  AI-Powered Architecture  ║
-║  修行中  →           LLMs & Deep Learning     ║
-║  使命    →           Code That Saves Lives    ║
-║  座右の銘 →          "諦めるな — Never Quit"  ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
+名前: Yatin Sharma
+場所: India 🇮🇳
+職業: Developer & Anime Enthusiast
+
+人生のコード | Life Code:
+  - 🎌 Watching anime is not a hobby, it's a lifestyle
+  - 💻 Turning coffee into code since 2021
+  - 🚴 Cycling through life's adventures
+  - 🍳 Cooking up code and real food
+  - 🎬 Hollywood & Anime = Perfect combo
+
+現在の状況 | Current Status:
+  - 🔭 Working on exciting projects
+  - 🌱 Learning new technologies daily
+  - ⚡ Building Telegram Bots & Web Apps
+  - 🎯 Goal: Become a Full-Stack Ninja
 ```
 
-</td>
-<td valign="top" width="45%" align="center">
+<br clear="right"/>
 
-<!-- Mikasa coding gif -->
-<img src="https://i.imgur.com/yEBHlyR.gif" width="320" title="Mikasa Ackerman"/>
-<br/>
-<sub>⚔️ <i>Mikasa Ackerman — 最強の戦士</i></sub>
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-</td>
-</tr>
-</table>
-
+<!-- DANCING ANIME SECTION -->
 <div align="center">
 
-> ### 🌸 *「コードとは剣であり、想像力とは鎧である」*
-> ### *"Code is the sword, imagination is the armor"*
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ⚔️ TECH ARSENAL — 武器庫                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=50&section=header&text=⚔️+武器庫+—+TECH+ARSENAL+⚔️&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 私の仲間 | My Anime Companions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <br/>
 
-### 🐉 Languages — 言語の武器
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,bash,html&theme=dark&perline=8"/>
-
-### ⚛️ Frameworks — フレームワーク
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind,graphql&theme=dark&perline=8"/>
-
-### 🧠 AI / ML — 人工知能の力
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=8"/>
-
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🗄️ Databases & Cloud — データとクラウド
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,aws,gcp&theme=dark&perline=8"/>
-
-### 🛠️ DevOps & Tools — 開発ツール
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,nginx,vscode,postman&theme=dark&perline=8"/>
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🏆 GITHUB POWER STATS — 戦闘力                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=4&height=50&section=header&text=🏆+戦闘力+—+GITHUB+POWER+STATS+🏆&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YatinSharma1303&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=C44DFF&text_color=FFFFFF&border_radius=20&include_all_commits=true&count_private=true&custom_title=⚡+Yatin's+Battle+Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YatinSharma1303&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=C44DFF&fire=FF0080&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0080&sideLabels=C44DFF&dates=888888&border_radius=20" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatinSharma1303&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF&border_radius=20&langs_count=8&custom_title=🗡️+Languages+Mastered" width="33%"/>
-&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YatinSharma1303&bg_color=0D1117&color=FF0080&line=C44DFF&point=FF0080&area_color=1a0030&area=true&hide_border=true&custom_title=⚡+Contribution+Battle+Graph&radius=8" width="62%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🌟 MY PROJECTS — 私のプロジェクト                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=50&section=header&text=🌟+私のプロジェクト+—+LEGENDARY+PROJECTS+🌟&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br/>
-
-> *「これらは私の戦いの記録だ」— "These are the records of my battles"*
-
-<br/>
-
-<!-- ══ REPO CARD ROW 1 — Replace REPO_NAME_X with your actual repo names ══ -->
-<a href="https://github.com/YatinSharma1303/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YatinSharma1303&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF&icon_color=C44DFF&border_radius=15" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/YatinSharma1303/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YatinSharma1303&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF&icon_color=C44DFF&border_radius=15" width="47%"/>
-</a>
-
-<br/><br/>
-
-<!-- ══ ROW 2 ══ -->
-<a href="https://github.com/YatinSharma1303/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YatinSharma1303&repo=REPO_NAME_3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&icon_color=6C63FF&border_radius=15" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/YatinSharma1303/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YatinSharma1303&repo=REPO_NAME_4&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF&icon_color=6C63FF&border_radius=15" width="47%"/>
-</a>
-
-<br/><br/>
-
-<!-- ══ ROW 3 ══ -->
-<a href="https://github.com/YatinSharma1303/REPO_NAME_5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YatinSharma1303&repo=REPO_NAME_5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&icon_color=FF0080&border_radius=15" width="47%"/>
-</a>
-&nbsp;
-<a href="https://github.com/YatinSharma1303/REPO_NAME_6">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YatinSharma1303&repo=REPO_NAME_6&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&icon_color=FF0080&border_radius=15" width="47%"/>
-</a>
-
-<br/><br/>
-
-<!-- LIVE PROJECT TABLE — replace REPO_NAME_X and descriptions -->
-
-### 📜 Project Scroll — プロジェクト一覧
-
-| 🏯 Project | 📖 Description | 🛠️ Stack | ⭐ | 🍴 |
-|:---|:---|:---|:---:|:---:|
-| [🔗 REPO_NAME_1](https://github.com/YatinSharma1303/REPO_NAME_1) | Add description | `Python` `React` | ![](https://img.shields.io/github/stars/YatinSharma1303/REPO_NAME_1?style=flat-square&color=FF0080&labelColor=0D1117) | ![](https://img.shields.io/github/forks/YatinSharma1303/REPO_NAME_1?style=flat-square&color=C44DFF&labelColor=0D1117) |
-| [🔗 REPO_NAME_2](https://github.com/YatinSharma1303/REPO_NAME_2) | Add description | `Node.js` `MongoDB` | ![](https://img.shields.io/github/stars/YatinSharma1303/REPO_NAME_2?style=flat-square&color=FF0080&labelColor=0D1117) | ![](https://img.shields.io/github/forks/YatinSharma1303/REPO_NAME_2?style=flat-square&color=C44DFF&labelColor=0D1117) |
-| [🔗 REPO_NAME_3](https://github.com/YatinSharma1303/REPO_NAME_3) | Add description | `TensorFlow` `FastAPI` | ![](https://img.shields.io/github/stars/YatinSharma1303/REPO_NAME_3?style=flat-square&color=FF0080&labelColor=0D1117) | ![](https://img.shields.io/github/forks/YatinSharma1303/REPO_NAME_3?style=flat-square&color=C44DFF&labelColor=0D1117) |
-| [🔗 REPO_NAME_4](https://github.com/YatinSharma1303/REPO_NAME_4) | Add description | `Next.js` `Docker` | ![](https://img.shields.io/github/stars/YatinSharma1303/REPO_NAME_4?style=flat-square&color=FF0080&labelColor=0D1117) | ![](https://img.shields.io/github/forks/YatinSharma1303/REPO_NAME_4?style=flat-square&color=C44DFF&labelColor=0D1117) |
-| [🔗 REPO_NAME_5](https://github.com/YatinSharma1303/REPO_NAME_5) | Add description | `AWS` `PostgreSQL` | ![](https://img.shields.io/github/stars/YatinSharma1303/REPO_NAME_5?style=flat-square&color=FF0080&labelColor=0D1117) | ![](https://img.shields.io/github/forks/YatinSharma1303/REPO_NAME_5?style=flat-square&color=C44DFF&labelColor=0D1117) |
-| [🔗 REPO_NAME_6](https://github.com/YatinSharma1303/REPO_NAME_6) | Add description | `TypeScript` `Redis` | ![](https://img.shields.io/github/stars/YatinSharma1303/REPO_NAME_6?style=flat-square&color=FF0080&labelColor=0D1117) | ![](https://img.shields.io/github/forks/YatinSharma1303/REPO_NAME_6?style=flat-square&color=C44DFF&labelColor=0D1117) |
-
-> ⚠️ **Replace all `REPO_NAME_X`** with your real repo names from [github.com/YatinSharma1303?tab=repositories](https://github.com/YatinSharma1303?tab=repositories) — skip any with the fork 🍴 icon
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--         🎌 MY TOP FAVOURITE ANIME — 大好きなアニメ              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30&height=50&section=header&text=🎌+大好きなアニメ+—+MY+TOP+FAVOURITE+ANIME+🎌&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=1800&pause=400&color=FF0080&center=true&vCenter=true&width=700&height=45&lines=進撃の巨人+⚔️+Attack+on+Titan;鋼の錬金術師+🔬+Fullmetal+Alchemist+Brotherhood;ヴィンランド・サガ+⚓+Vinland+Saga;ポケットモンスター+⚡+Pokémon;ワンピース+🍖+One+Piece;ワンパンマン+👊+One+Punch+Man;俺だけレベルアップな件+🗡️+Solo+Leveling;呪術廻戦+👁️+Jujutsu+Kaisen;デスノート+📓+Death+Note" />
-
-<br/><br/>
-
-<!-- ═══════════════════════ ANIME GRID ═══════════════════════ -->
-
-<!-- ROW 1: AOT + FMAB -->
+<!-- ROW 1: ATTACK ON TITAN & FMA -->
 <table>
 <tr>
-
-<!-- ── ATTACK ON TITAN ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA-8B0000?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Attack_on_Titan_logo.svg/300px-Attack_on_Titan_logo.svg.png" width="130" title="Attack on Titan"/><br/>
-<b>⚔️ Attack on Titan</b><br/>
-<sub>進撃の巨人</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%231_GOAT-FF0000?style=flat-square&labelColor=0D1117"/>
+<td align="center">
+<img src="https://media.giphy.com/media/jmSImqrm28Vdm/giphy.gif" width="150" height="150"/>
+<br/>
+<b>進撃の巨人</b>
+<br/>
+Attack on Titan
 </td>
-
-<!-- ── FMA BROTHERHOOD ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-鋼の錬金術師-CC8800?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Fullmetal_Alchemist_Brotherhood_DVD_vol_1.jpg/220px-Fullmetal_Alchemist_Brotherhood_DVD_vol_1.jpg" width="100" title="FMA Brotherhood"/><br/>
-<b>🔬 FMA: Brotherhood</b><br/>
-<sub>鋼の錬金術師</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%232_MASTERPIECE-FF8800?style=flat-square&labelColor=0D1117"/>
+<td align="center">
+<img src="https://media.giphy.com/media/SFkjp1R8iRIWc/giphy.gif" width="150" height="150"/>
+<br/>
+<b>鋼の錬金術師</b>
+<br/>
+FMA Brotherhood
 </td>
-
-<!-- ── VINLAND SAGA ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-ヴィンランドサガ-1A3A5C?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Vinland_Saga_manga_vol_1.jpg/220px-Vinland_Saga_manga_vol_1.jpg" width="100" title="Vinland Saga"/><br/>
-<b>⚓ Vinland Saga</b><br/>
-<sub>ヴィンランド・サガ</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%233_EPIC-0077CC?style=flat-square&labelColor=0D1117"/>
+<td align="center">
+<img src="https://media.giphy.com/media/3o7TKSxdQJIoiRXHl6/giphy.gif" width="150" height="150"/>
+<br/>
+<b>ヴィンランド・サガ</b>
+<br/>
+Vinland Saga
 </td>
-
-<!-- ── POKÉMON ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-ポケモン-FFCC00?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/300px-International_Pok%C3%A9mon_logo.svg.png" width="130" title="Pokémon"/><br/>
-<b>⚡ Pokémon</b><br/>
-<sub>ポケットモンスター</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%234_LEGEND-FFCC00?style=flat-square&labelColor=0D1117"/>
+<td align="center">
+<img src="https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" width="150" height="150"/>
+<br/>
+<b>ポケモン</b>
+<br/>
+Pokemon
 </td>
-
 </tr>
 </table>
-
-<br/>
-
-<!-- ROW 2: One Piece + OPM + Solo Leveling + JJK -->
-<table>
-<tr>
-
-<!-- ── ONE PIECE ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-ワンピース-FF6600?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg" width="100" title="One Piece"/><br/>
-<b>🍖 One Piece</b><br/>
-<sub>ワンピース</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%235_ETERNAL-FF6600?style=flat-square&labelColor=0D1117"/>
-</td>
-
-<!-- ── ONE PUNCH MAN ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-ワンパンマン-CCCCCC?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/One_Punch_Man_Volume_1_Cover.png/220px-One_Punch_Man_Volume_1_Cover.png" width="100" title="One Punch Man"/><br/>
-<b>👊 One Punch Man</b><br/>
-<sub>ワンパンマン</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%236_S--CLASS-AAAAAA?style=flat-square&labelColor=0D1117"/>
-</td>
-
-<!-- ── SOLO LEVELING ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-俺だけレベルアップ-6600CC?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Solo_Leveling_-_novel_volume_1_cover.jpg/220px-Solo_Leveling_-_novel_volume_1_cover.jpg" width="100" title="Solo Leveling"/><br/>
-<b>🗡️ Solo Leveling</b><br/>
-<sub>俺だけレベルアップな件</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%237_MONARCH-9900FF?style=flat-square&labelColor=0D1117"/>
-</td>
-
-<!-- ── JUJUTSU KAISEN ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-呪術廻戦-000066?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Jujutsu_Kaisen_manga_volume_1.jpg/220px-Jujutsu_Kaisen_manga_volume_1.jpg" width="100" title="Jujutsu Kaisen"/><br/>
-<b>👁️ Jujutsu Kaisen</b><br/>
-<sub>呪術廻戦</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%238_SPECIAL_GRADE-0000AA?style=flat-square&labelColor=0D1117"/>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ROW 3: DEATH NOTE (centred) + ANIME GIRL GIFs -->
-<table>
-<tr>
-
-<!-- ── DEATH NOTE ── -->
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/-デスノート-111111?style=for-the-badge&labelColor=0D1117" /><br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Death_Note%2C_volume_1.jpg/220px-Death_Note%2C_volume_1.jpg" width="100" title="Death Note"/><br/>
-<b>📓 Death Note</b><br/>
-<sub>デスノート</sub><br/>
-<img src="https://img.shields.io/badge/Rank-%239_GENIUS-FF0000?style=flat-square&labelColor=0D1117"/>
-</td>
-
-<!-- ── ANIME GIRL: Mikasa action ── -->
-<td align="center" width="25%">
-<img src="https://media.tenor.com/YPaks4pYMFIAAAAd/mikasa-aot.gif" width="190" title="Mikasa Ackerman - AOT"/><br/>
-<sub>⚔️ <b>Mikasa</b> — AOT</sub>
-</td>
-
-<!-- ── ANIME GIRL: Nobara ── -->
-<td align="center" width="25%">
-<img src="https://media.tenor.com/ZK8DtOWJ0r8AAAAd/nobara-kugisaki.gif" width="190" title="Nobara Kugisaki - JJK"/><br/>
-<sub>🔨 <b>Nobara</b> — JJK</sub>
-</td>
-
-<!-- ── ANIME GIRL: Nami ── -->
-<td align="center" width="25%">
-<img src="https://media.tenor.com/bRPOmv_b-DEAAAAC/nami-one-piece.gif" width="190" title="Nami - One Piece"/><br/>
-<sub>🌊 <b>Nami</b> — One Piece</sub>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ANIME POWER TABLE -->
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║           🎌 ANIME POWER TIER LIST — アニメランキング               ║
-╠══════════╦══════════════════════════════╦══════════════╦════════════╣
-║  RANK    ║  ANIME                       ║  GENRE       ║  TIER     ║
-╠══════════╬══════════════════════════════╬══════════════╬════════════╣
-║  🥇 #1   ║  Attack on Titan ⚔️           ║  Dark Action ║  ★★★★★ S ║
-║  🥈 #2   ║  FMA: Brotherhood 🔬         ║  Adventure   ║  ★★★★★ S ║
-║  🥉 #3   ║  Vinland Saga ⚓             ║  Historical  ║  ★★★★★ S ║
-║  🏅 #4   ║  Pokémon ⚡                  ║  Adventure   ║  ★★★★☆ A ║
-║  🏅 #5   ║  One Piece 🍖                ║  Shonen      ║  ★★★★☆ A ║
-║  🏅 #6   ║  One Punch Man 👊            ║  Comedy      ║  ★★★★☆ A ║
-║  🏅 #7   ║  Solo Leveling 🗡️            ║  Manhwa      ║  ★★★★☆ A ║
-║  🏅 #8   ║  Jujutsu Kaisen 👁️           ║  Sorcery     ║  ★★★★☆ A ║
-║  🏅 #9   ║  Death Note 📓               ║  Thriller    ║  ★★★★☆ A ║
-╚══════════╩══════════════════════════════╩══════════════╩════════════╝
-```
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--         🎎 MORE ANIME GIRLS — 女性キャラ登場！                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=50&section=header&text=🎎+最強の女性キャラたち+—+ICONIC+WARRIOR+GIRLS+🎎&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br/>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://media.tenor.com/nM8I3FGUiJsAAAAC/mikasa-ackerman-attack-on-titan.gif" width="200"/><br/>
-<img src="https://img.shields.io/badge/Mikasa_Ackerman-AOT-8B0000?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://media.giphy.com/media/13d2cJ9dKKi7tu/giphy.gif" width="150" height="150"/>
+<br/>
+<b>ワンピース</b>
+<br/>
+One Piece
 </td>
 <td align="center">
-<img src="https://media.tenor.com/MhFGBNVXaqkAAAAC/winry-rockbell-fma.gif" width="200"/><br/>
-<img src="https://img.shields.io/badge/Winry_Rockbell-FMA_Brotherhood-CC8800?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://media.giphy.com/media/dWNiglgPz5aKY/giphy.gif" width="150" height="150"/>
+<br/>
+<b>ワンパンマン</b>
+<br/>
+One Punch Man
 </td>
 <td align="center">
-<img src="https://media.tenor.com/oAoT3w0zMqkAAAAC/nami-one-piece.gif" width="200"/><br/>
-<img src="https://img.shields.io/badge/Nami-One_Piece-FF6600?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="150" height="150"/>
+<br/>
+<b>俺だけレベルアップな件</b>
+<br/>
+Solo Leveling
 </td>
 <td align="center">
-<img src="https://media.tenor.com/3e8rJ7kGPvcAAAAC/nobara-jujutsu-kaisen.gif" width="200"/><br/>
-<img src="https://img.shields.io/badge/Nobara_Kugisaki-JJK-000066?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://media.giphy.com/media/8FDcpKbMTx1U2Lt2Kt/giphy.gif" width="150" height="150"/>
+<br/>
+<b>呪術廻戦</b>
+<br/>
+Jujutsu Kaisen
+</td>
+</tr>
+</table>
+
+<img src="https://media.giphy.com/media/5xtDarDFtx1uQhOC8Le/giphy.gif" width="180"/>
+<br/>
+<b>デスノート | Death Note</b>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- TECH STACK SECTION -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> 武器庫 | Tech Arsenal <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
+
+<br/>
+
+<!-- ANIMATED TECH ICONS -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80">
+
+<br/><br/>
+
+<!-- SKILL BADGES WITH ANIMATIONS -->
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+<br><b>CSS3</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br><b>REST API</b>
 </td>
 </tr>
 </table>
 
 <br/>
 
-> 🌸 *「最強の男の隣には、必ず最強の女がいる」*
->
-> *"Beside every strongest man, there is always the strongest woman"*
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              ⚡ SKILL POWER LEVELS — 能力値                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3&height=50&section=header&text=⚡+能力値+—+SKILL+POWER+LEVELS+⚡&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-</div>
+<!-- POWER LEVEL SKILL BARS -->
+### 戦闘力 | Power Levels
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│            🏯 SKILL POWER LEVELS — 能力ランキング               │
-├─────────────────────────────┬───────────────────────┬────────────┤
-│  🐍 Python                  │ ████████████████████  │ ★★★★★ S  │
-│  🧠 Machine Learning        │ ████████████████░░░░  │ ★★★★☆ A+ │
-│  ⚛️  React / Next.js        │ ████████████████░░░░  │ ★★★★☆ A+ │
-│  🗄️  Databases (SQL/NoSQL)  │ █████████████░░░░░░░  │ ★★★★☆ A  │
-│  ☁️  Cloud (AWS / GCP)      │ ████████████░░░░░░░░  │ ★★★☆☆ B+ │
-│  🐳 Docker / DevOps         │ ████████████░░░░░░░░  │ ★★★☆☆ B+ │
-│  🔬 Deep Learning / LLMs    │ ██████████░░░░░░░░░░  │ ★★★☆☆ B  │
-│  🔐 Security / Auth         │ █████████░░░░░░░░░░░  │ ★★★☆☆ B  │
-└─────────────────────────────┴───────────────────────┴────────────┘
+Python          ████████████████████░░░░░   80%  ⚡ OVER 9000!
+HTML/CSS        ██████████████████████░░░   88%  🔥 ULTRA INSTINCT
+JavaScript      ████████████████░░░░░░░░░   64%  ⚔️ BANKAI ACTIVATED
+Telegram Bots   █████████████████████████   99%  💀 DOMAIN EXPANSION
+Git & GitHub    ██████████████████░░░░░░░   72%  🌀 RASENGAN READY
 ```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🎯 QUEST LOG — クエストログ                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=50&section=header&text=🎯+クエストログ+—+CURRENT+QUEST+LOG+🎯&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-</div>
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                📜 任務掲示板 — QUEST BOARD v3.0                  ║
-╠════════════════════════════════════════════════════════════════════╣
-║  🔥 [進行中]   Building AI-Powered Full Stack Products            ║
-║  📚 [勉強中]   Large Language Models, RAG, Fine-tuning           ║
-║  ⚔️  [修行中]   Advanced Deep Neural Architecture                 ║
-║  🌐 [探索中]   Cloud Native, Microservices, K8s                  ║
-║  🤝 [挑戦中]   Open Source Contribution Sprint ×100             ║
-║  🌟 [夢 ]      AI That Touches 1 Million Lives                   ║
-║  🎌 [誓約 ]    Never. Stop. Learning. 永遠に。                   ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🏅 TROPHIES — トロフィー                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8&height=50&section=header&text=🏅+トロフィー+—+ACHIEVEMENTS+🏅&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YatinSharma1303&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
+<!-- MORE TECH ANIMATIONS -->
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400"/>
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🐉 CONTRIBUTION SNAKE — 龍の軌跡                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- GITHUB STATS SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=15&height=50&section=header&text=🐉+龍の軌跡+—+CONTRIBUTION+DRAGON+🐉&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 統計 | GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+<br/>
+
+<!-- STATS CARDS -->
+<a href="https://github.com/YatinSharma1303">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YatinSharma1303&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&border_color=ff6b6b&ring_color=ff6b6b&icon_color=ff6b6b"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatinSharma1303&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&border_color=ff6b6b"/>
+</a>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<a href="https://github.com/YatinSharma1303">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YatinSharma1303&theme=tokyonight&border_radius=15&border=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b"/>
+</a>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<a href="https://github.com/YatinSharma1303">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YatinSharma1303&custom_title=Yatin's%20Contribution%20Graph&bg_color=1a1b27&color=ff6b6b&line=628fdb&point=ff6b6b&area=true&hide_border=true"/>
+</a>
+
+<br/><br/>
+
+<!-- TROPHY CABINET -->
+<a href="https://github.com/YatinSharma1303">
+  <img src="https://github-profile-trophy.vercel.app/?username=YatinSharma1303&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+</a>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="40px"> 貢献蛇 | Contribution Snake <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="40px">
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YatinSharma1303/YatinSharma1303/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YatinSharma1303/YatinSharma1303/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake-animation" src="https://raw.githubusercontent.com/YatinSharma1303/YatinSharma1303/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YatinSharma1303/YatinSharma1303/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YatinSharma1303/YatinSharma1303/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YatinSharma1303/YatinSharma1303/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              💖 FUN FACTS + PHILOSOPHY                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- HOBBIES SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=7&height=50&section=header&text=💖+哲学+%26+面白い事実+—+PHILOSOPHY+%26+FUN+FACTS+💖&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 趣味 | My Hobbies <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="80%"/>
-
-</div>
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
-<td width="55%">
-
-```
-🎌  AOT taught me — every wall has a door. Break it.
-⚕️  AI + Healthcare = life's mission
-☕  Chai at 2AM = best debugging companion
-🌊  I refactor like Gojo redefines Infinity
-🔥  Commit messages: "COLOSSAL TITAN REFACTOR COMPLETE"
-🌙  Dream: Python. Wake up: React epiphanies
-👊  Saitama energy: SERIOUS SERIES: SERIOUS PUSH
-🗡️  Every deploy = Sung Jin-Woo leveling up
-📓  Code reviews = Death Note. Every bug gets a name.
-```
-
+<td align="center">
+<img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="120"/>
+<br/><br/>
+<b>🎬 Hollywood Movies</b>
+<br/>
+映画鑑賞
 </td>
-<td align="center" width="45%">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  「強さとは          ▓
-▓   決して倒れない     ▓
-▓   ことではなく、     ▓
-▓   倒れるたびに       ▓
-▓   立ち上がること」   ▓
-▓                      ▓
-▓  "Rise every time    ▓
-▓   you fall"          ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
+<td align="center">
+<img src="https://media.giphy.com/media/l3q2Wl7Wpz09Z5hfi/giphy.gif" width="120"/>
+<br/><br/>
+<b>📺 Anime Watching</b>
+<br/>
+アニメ視聴
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/4TvpOaD5g5V7iMILiR/giphy.gif" width="120"/>
+<br/><br/>
+<b>🚴 Cycling</b>
+<br/>
+サイクリング
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/WmZVoEKpxFt7dlWwJG/giphy.gif" width="120"/>
+<br/><br/>
+<b>🍳 Cooking</b>
+<br/>
+料理
 </td>
 </tr>
 </table>
 
----
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                🔗 CONNECT — 繋がろう                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
+<!-- SPOTIFY / NOW PLAYING SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10&height=50&section=header&text=🔗+繋がろう+—+LET%27S+CONNECT+🔗&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+## <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="40"> 今聴いている | Now Playing <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="40">
 
 <br/>
 
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/)
+
+<br/>
+
+<!-- ANIME OST VIBES -->
+<img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="300"/>
+
+<br/>
+
+*"Tatakae! Tatakae!" - Eren Yeager*
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<!-- ANIME QUOTE SECTION -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/jzaZ23z45A0owxpzJk/giphy.gif" width="40"> 名言 | Anime Quotes <img src="https://media.giphy.com/media/jzaZ23z45A0owxpzJk/giphy.gif" width="40">
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20don%27t%20take%20risks%2C%20you%20can%27t%20create%20a%20future.&author=Monkey%20D.%20Luffy%20%7C%20One%20Piece"/>
+
+<br/><br/>
+
+```
+「戦え、戦え」
+"Fight, fight!"
+  - Eren Yeager (進撃の巨人)
+
+「立ち上がれ、前に進め」
+"Stand up, move forward."
+  - Thorfinn (ヴィンランド・サガ)
+
+「俺だけレベルアップ」
+"I alone level up."
+  - Sung Jin-Woo (俺だけレベルアップな件)
+```
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- CONNECT WITH ME -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 連絡先 | Connect With Me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+
+<br/>
+
+<!-- ANIMATED SOCIAL BADGES -->
 <a href="https://github.com/YatinSharma1303">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/yatinsharma1303">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:yatinsharma1303@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:opportunities.yatin@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&width=750&height=45&lines=🌸+ありがとうございます！+Thank+you+for+visiting!+🌸;⚡+一緒に世界を変えよう+—+Let%27s+change+the+world!;🔥+May+your+builds+pass+and+your+commits+stay+green!"/>
+<!-- CONTACT ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,20:00D2FF,40:6C63FF,60:C44DFF,80:FF4DA6,100:FF0080&height=160&section=footer&text=また会いましょう！+See+you+next+time！&fontSize=30&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%"/>
+```
+📧 Email: opportunities.yatin@gmail.com
+🌐 GitHub: github.com/YatinSharma1303
+```
 
 </div>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE SETUP: create .github/workflows/snake.yml               -->
-<!--                                                                    -->
-<!-- name: Snake Animation                                              -->
-<!-- on:                                                                -->
-<!--   schedule: [{cron: "0 */12 * * *"}]                             -->
-<!--   workflow_dispatch:                                               -->
-<!-- jobs:                                                              -->
-<!--   generate:                                                        -->
-<!--     runs-on: ubuntu-latest                                        -->
-<!--     steps:                                                         -->
-<!--       - uses: Platane/snk/svg-only@v3                             -->
-<!--         with:                                                      -->
-<!--           github_user_token: ${{ secrets.GITHUB_TOKEN }}          -->
-<!--           outputs: |                                               -->
-<!--             dist/github-contribution-grid-snake.svg               -->
-<!--             dist/github-contribution-grid-snake-dark.svg          -->
-<!--       - uses: crazy-max/ghaction-github-pages@v3.1.0              -->
-<!--         with:                                                      -->
-<!--           target_branch: output                                    -->
-<!--           build_dir: dist                                         -->
-<!--         env:                                                       -->
-<!--           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}               -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<!-- RANDOM DEV JOKE -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40"> デベロッパージョーク | Dev Joke <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40">
+
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=ff6b6b" alt="Jokes Card" />
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- FINAL ANIME PARADE -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3og0IIIZVBYF8b4lMI/giphy.gif" width="40"> ワイフギャラリー | Waifu Gallery <img src="https://media.giphy.com/media/3og0IIIZVBYF8b4lMI/giphy.gif" width="40">
+
+<br/>
+
+<img src="https://media.giphy.com/media/fHiz7HAUlSaIg/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/xT0xeIbYVQcBFDSdVu/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/l46CsaquyQudrz3Lq/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/lMsT2f47tDxFMYdJMC/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"/>
+
+<br/><br/>
+
+<!-- SPARKLE EFFECT -->
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200"/>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/pUeXcg80cO8I8/giphy.gif" width="200"/>
+
+<br/><br/>
+
+### ⚔️ *「俺は、お前の敵だ」* ⚔️
+### *"I am your enemy."* - Light Yagami
+
+<br/>
+
+<!-- THANKS FOR VISITING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%EF%BC%81;See+you+space+cowboy...+%F0%9F%8C%A0;May+your+code+compile+on+first+try!+%E2%9C%A8" />
+
+<br/><br/>
+
+<!-- SUPPORT -->
+<img src="https://img.shields.io/badge/Buy%20Me%20Ramen-🍜-ff6b6b?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- ANIMATED HEART -->
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"/> Made with love and anime <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"/>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
+
+<!-- 
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║                                                                   ║
+  ║   Created with ❤️ by Yatin Sharma                                  ║
+  ║   GitHub: https://github.com/YatinSharma1303                      ║
+  ║                                                                   ║
+  ║   "The world isn't perfect. But it's there for us, doing the     ║
+  ║    best it can... that's what makes it so damn beautiful."       ║
+  ║                          - Roy Mustang (FMA)                      ║
+  ║                                                                   ║
+  ╚═══════════════════════════════════════════════════════════════════╝
+-->
+]]>
