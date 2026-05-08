@@ -512,7 +512,6 @@ GitHub: github.com/YatinSharma1303
 
 <!-- ANIMATED FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=120&section=footer"/>
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YatinSharma1303/YatinSharma1303/output/github-snake-dark.svg" alt="Snake animation" />
