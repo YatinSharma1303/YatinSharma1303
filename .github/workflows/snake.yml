@@ -1,0 +1,106 @@
+# ==========================================================
+# 🐍 Ultimate GitHub Snake Animation Workflow
+# File Location:
+# .github/workflows/snake.yml
+# ==========================================================
+
+name: Generate Snake Animation
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Allow manual run from Actions tab
+  workflow_dispatch:
+
+  # Run when README changes
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+
+# Prevent duplicate workflow runs
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate Contribution Snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      # ======================================================
+      # Checkout Repository
+      # ======================================================
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # ======================================================
+      # Generate Snake Animations
+      # ======================================================
+      - name: Generate Snake SVGs and GIFs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: YatinSharma1303
+
+          outputs: |
+
+            # ==================================================
+            # DEFAULT LIGHT THEME
+            # ==================================================
+            dist/github-snake.svg
+
+            # ==================================================
+            # DARK THEME (RECOMMENDED)
+            # ==================================================
+            dist/github-snake-dark.svg?palette=github-dark
+
+            # ==================================================
+            # PURPLE/PINK ANIMATED GIF
+            # ==================================================
+            dist/github-snake.gif?color_snake=8B5CF6&color_dots=#0D1117,#161B22,#21262D,#8B5CF6,#EC4899
+
+            # ==================================================
+            # OCEAN BLUE THEME
+            # ==================================================
+            dist/github-snake-ocean.svg?color_snake=#00D9FF&color_dots=#001219,#005F73,#0A9396,#94D2BD,#E9D8A6
+
+            # ==================================================
+            # NEON GREEN CYBERPUNK THEME
+            # ==================================================
+            dist/github-snake-neon.svg?color_snake=#39FF14&color_dots=#000000,#111111,#222222,#39FF14,#00FFFF
+
+            # ==================================================
+            # FIRE THEME
+            # ==================================================
+            dist/github-snake-fire.svg?color_snake=#FF4500&color_dots=#1A0000,#330000,#661111,#FF4500,#FFD700
+
+            # ==================================================
+            # MATRIX THEME
+            # ==================================================
+            dist/github-snake-matrix.svg?color_snake=#00FF41&color_dots=#000000,#001100,#003300,#00FF41,#00CC33
+
+            # ==================================================
+            # GOLD THEME
+            # ==================================================
+            dist/github-snake-gold.svg?color_snake=#FFD700&color_dots=#1A1A1A,#333333,#555555,#FFD700,#FFF8DC
+
+      # ======================================================
+      # Deploy Generated Files to Output Branch
+      # ======================================================
+      - name: Deploy Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Update GitHub contribution snake"
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
